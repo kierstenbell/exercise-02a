@@ -4,6 +4,9 @@ output: html_document
 date: "2024-01-29"
 ---
 
+Apparently I can use emojis in here? :joy:
+
+I need to highlight this <mark> important </mark> word and **bold** this one and *italicize* this one. 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
